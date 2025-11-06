@@ -157,6 +157,18 @@ Here are optional features you may add later:
 * Light/Dark theme toggle
 * Email/SMS notification triggers
 
+### 📸 Dashboard Screenshots
+
+#### 1️⃣ Key Metrics Overview
+![Overview](screenshots/Screenshot\ \(607\).png)
+
+#### 2️⃣ Live CPU & Memory Trends
+![CPU-Memory](screenshots/Screenshot\ \(610\).png)
+
+#### 3️⃣ Recent System Data Table
+![Data Table](screenshots/Screenshot\ 2025-11-06\ 162815.png)
+
+
 
 #### Author 
 
