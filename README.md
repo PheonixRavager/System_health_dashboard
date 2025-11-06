@@ -160,13 +160,14 @@ Here are optional features you may add later:
 ### 📸 Dashboard Screenshots
 
 #### 1️⃣ Key Metrics Overview
-![Overview](screenshots/Screenshot\ \(607\).png)
+![Overview](screenshots/Screenshot%20(607).png)
 
 #### 2️⃣ Live CPU & Memory Trends
-![CPU-Memory](screenshots/Screenshot\ \(610\).png)
+![CPU-Memory](screenshots/Screenshot%20(610).png)
 
 #### 3️⃣ Recent System Data Table
-![Data Table](screenshots/Screenshot\ 2025-11-06\ 162815.png)
+![Data Table](screenshots/Screenshot%202025-11-06%20162815.png)
+
 
 
 
